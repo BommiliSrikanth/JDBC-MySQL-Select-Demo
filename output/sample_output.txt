@@ -1,0 +1,6 @@
+Connected to MySQL database successfully!
+Retrieving records from 'users' table...
+
+User ID: 1, Username: johndoe, Email: johndoe@example.com
+User ID: 2, Username: janedoe, Email: janedoe@example.com
+User ID: 3, Username: alice, Email: alice@example.com
